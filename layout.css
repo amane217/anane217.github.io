@@ -1,0 +1,15 @@
+header {
+    background-color: #ff99cc;
+    padding: 20px;
+}
+
+nav a {
+    color: #ff3366;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
